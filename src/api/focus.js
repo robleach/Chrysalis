@@ -646,6 +646,12 @@ class Focus {
     "mousekeys.base_speed",
     "mousekeys.accel_duration",
     "mousekeys.warp_grid_size",
+    "oneshot.timeout",
+    "oneshot.hold_timeout",
+    "oneshot.double_tap_timeout",
+    "oneshot.stickable_keys",
+    "oneshot.auto_mods",
+    "oneshot.auto_layers",
   ];
 
   eepromBackupCommands = [
